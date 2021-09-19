@@ -1,6 +1,6 @@
 <?php
 
-namespace Marquine\Etl\Database\Connectors;
+namespace Jdikasa\Etl\Database\Connectors;
 
 class SqlServerConnector extends Connector
 {
