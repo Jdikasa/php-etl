@@ -1,8 +1,8 @@
 <?php
 
-namespace Marquine\Etl\Extractors;
+namespace Jdikasa\Etl\Extractors;
 
-use Marquine\Etl\Step;
+use Jdikasa\Etl\Step;
 
 abstract class Extractor extends Step
 {
