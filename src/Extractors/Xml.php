@@ -1,9 +1,9 @@
 <?php
 
-namespace Marquine\Etl\Extractors;
+namespace Jdikasa\Etl\Extractors;
 
 use XMLReader;
-use Marquine\Etl\Row;
+use Jdikasa\Etl\Row;
 
 class Xml extends Extractor
 {
