@@ -1,8 +1,8 @@
 <?php
 
-namespace Marquine\Etl\Transformers;
+namespace Jdikasa\Etl\Transformers;
 
-use Marquine\Etl\Row;
+use Jdikasa\Etl\Row;
 
 class Callback extends Transformer
 {
