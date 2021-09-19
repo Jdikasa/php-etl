@@ -2,8 +2,8 @@
 
 namespace Marquine\Etl\Extractors;
 
-use Marquine\Etl\Row;
-use Marquine\Etl\Database\Manager;
+use Jdikasa\Etl\Row;
+use Jdikasa\Etl\Database\Manager;
 
 class Query extends Extractor
 {
