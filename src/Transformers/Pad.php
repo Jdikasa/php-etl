@@ -1,9 +1,9 @@
 <?php
 
-namespace Marquine\Etl\Transformers;
+namespace Jdikasa\Etl\Transformers;
 
-use Marquine\Etl\Row;
-use Marquine\Etl\Transformers\Transformer;
+use Jdikasa\Etl\Row;
+use Jdikasa\Etl\Transformers\Transformer;
 
 class Pad extends Transformer
 {
