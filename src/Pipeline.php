@@ -1,11 +1,11 @@
 <?php
 
-namespace Marquine\Etl;
+namespace Jdikasa\Etl;
 
 use Iterator;
-use Marquine\Etl\Loaders\Loader;
-use Marquine\Etl\Extractors\Extractor;
-use Marquine\Etl\Transformers\Transformer;
+use Jdikasa\Etl\Loaders\Loader;
+use Jdikasa\Etl\Extractors\Extractor;
+use Jdikasa\Etl\Transformers\Transformer;
 
 class Pipeline implements Iterator
 {
