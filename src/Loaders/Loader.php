@@ -2,8 +2,8 @@
 
 namespace Marquine\Etl\Loaders;
 
-use Marquine\Etl\Row;
-use Marquine\Etl\Step;
+use Jdikasa\Etl\Row;
+use Jdikasa\Etl\Step;
 
 abstract class Loader extends Step
 {
