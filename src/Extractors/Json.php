@@ -1,8 +1,8 @@
 <?php
 
-namespace Marquine\Etl\Extractors;
+namespace Jdikasa\Etl\Extractors;
 
-use Marquine\Etl\Row;
+use Jdikasa\Etl\Row;
 use Flow\JSONPath\JSONPath;
 
 class Json extends Extractor
