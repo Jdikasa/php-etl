@@ -1,6 +1,6 @@
 <?php
 
-namespace Marquine\Etl\Database;
+namespace Jdikasa\Etl\Database;
 
 use PDO;
 use Exception;
