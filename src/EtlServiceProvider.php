@@ -1,6 +1,6 @@
 <?php
 
-namespace Marquine\Etl;
+namespace Jdikasa\Etl;
 
 use Illuminate\Support\ServiceProvider;
 
